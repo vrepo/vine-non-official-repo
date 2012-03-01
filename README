@@ -1,0 +1,11 @@
+vine non official repository.
+
+provide temp security updates and extra packages.
+everyone can report, join, request pass issues.
+
+maybe move later because plan so expensive,
+or just use changelog and issues here and put rpm on vps.
+
+simple way to rebuild from src.rpm:
+apt-get install rpm-build gcc gcc-c++
+rpmbuild --rebuild src.rpm

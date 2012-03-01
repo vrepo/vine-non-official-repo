@@ -1,0 +1,75 @@
+2011-03-01
+<plus> postgresql-9.1.3-1 (src)
+- update to 9.1.3
+
+<security> postgresql-9.0.7-1 (src) 
+- update to 9.0.7 (fix CVE-2012-0866/CVE-2012-0867/CVE-2012-0868)
+
+2011-02-29
+<security> cvs-1.12.13-5 (src)
+- fix CVE-2012-0804
+
+<security> libxml2-2.7.8-3 (src)
+- fix CVE-2012-0841
+
+<security> rsyslog-5.6.5-2 (src)
+- fix CVE-2011-3200
+
+<security> acpid-2.0.14-1 (src)
+- update to 2.0.14
+- fix CVE-2011-1159
+
+<security> rpm-4.8.1-4 (src)
+- fix CVE-2011-3378
+- add BuildRequires: libtool
+- add BuildRequires: file-devel
+
+<security> cups-1.4.6-3 (src)
+- fix CVE-2011-2896/CVE-2011-3170
+
+<security> net-tools-1.60-15 (src)
+- import patch from rhel (-HAVE_SELINUX)
+- sctp patch included
+
+<plus> putty-0.62-1 (src)
+- update to 0.62
+- BuildRequires -halibut
+
+2011-02-28
+<security> libpng10-1.0.57-1 (src)
+- update to 1.0.57
+- fix CVE-2011-3026/VU#523889
+
+<security> openldap-2.4.23-3 (src)
+- fix CVE-2011-1024
+- fix CVE-2011-1025
+- fix CVE-2011-1081
+- fix CVE-2011-4079
+
+<security> gnutls-2.10.5-3 (src)
+- fix CVE-2011-4128
+
+<security> telepathy-gabble-0.10.5-1 (src)
+- update to 0.10.5
+- fix CVE-2011-1000
+
+<security> pidgin-2.9.0-2 (src)
+- fix CVE-2011-4602
+
+2011-02-27
+<security> libpng-1.2.47-1 (src)
+- update to 1.2.47
+- fix CVE-2011-3026/VU#523889
+
+<security> jasper-1.900.1-9 (src)
+- import patch from centos
+- fix CVE-2007-2721
+- fix CVE-2008-3520
+- fix CVE-2008-3522
+- fix CVE-2011-4516/VU#887409
+
+<plus> gnome-session-2.32.1-1 (src)
+- enable IceTransNoListen
+
+<security> libvorbis-1.3.1-2 (src)
+- fix CVE-2012-0444
