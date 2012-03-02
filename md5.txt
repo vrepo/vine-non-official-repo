@@ -1,8 +1,9 @@
-a129c4ebe81726b10e70771fe3029dcc *./makehash.py
+8c9c353ee8485ca15316969862cc731c *./makehash.py
 d41d8cd98f00b204e9800998ecf8427e *./md5.txt
-81455d9856e46fe73bd4873c375ec390 *./sha1.txt
-185fa4c8213a26a2c67145cd8a8843cd *./changelog.txt
+9491019f2135800d19a9680169c00550 *./sha1.txt
+7fd755af42c503267d763de0d790210f *./changelog.txt
 ae3240493e41177bd032bc9d029b0c35 *./README
+084610163efbdf61d880d623a311c151 *./unstable/php5/php5-5.4.0-1vl6.src.rpm
 dd92b3f6952763eefe01fc02453db865 *./security/gnutls/gnutls-2.10.5-3vl6.src.rpm
 701eea1f1cbe1bbae4b7719eeaaceb10 *./security/cvs/cvs-1.12.13-5vl6.src.rpm
 965fc64a80d276b8e7b759c9fb3f823f *./security/libvorbis/libvorbis-1.3.1-2vl6.src.rpm

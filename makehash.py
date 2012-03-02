@@ -8,10 +8,17 @@ HashList = (
 	("md5sum -b", "md5.txt"),
 )
 
+class HiddenError(Exception):
+	pass
+
 def write(command, output_path):
 	with open(output_path, "wb") as p:
 		for root, dirs, files in os.walk("./"):
+			if "/." in root:
+				continue
 			for filename in files:
+				if "/." in filename:
+					continue
 				proc = subprocess.Popen(
 					"%s %s"%(command, os.path.join(root, filename)),
 					shell=True,

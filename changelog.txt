@@ -1,3 +1,11 @@
+2011-03-02
+<unstable> php5-5.4.0-1 (src)
+- update to 5.4.0
+- update session_strict_mode.patch to 5.4.x
+- subpackage +php-gd
+- BuildRequires -gd-devel -gdbm-devel
+- BuildRequires +freetype-devel +libXpm-devel +t1lib-devel
+
 2011-03-01
 <plus> postgresql-9.1.3-1 (src)
 - update to 9.1.3
