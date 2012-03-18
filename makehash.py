@@ -7,10 +7,6 @@ HashList = (
 	("sha1sum -b", "sha1.txt"),
 	("md5sum -b", "md5.txt"),
 )
-
-class HiddenError(Exception):
-	pass
-
 def write(command, output_path):
 	with open(output_path, "wb") as p:
 		for root, dirs, files in os.walk("./"):
