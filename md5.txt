@@ -1,6 +1,6 @@
-4bfe1ee1fd25805ac9647f4523aee9b0 *./sha1.txt
+79092b1bafce30f420d89a3861d70ecf *./sha1.txt
 ae3240493e41177bd032bc9d029b0c35 *./README
-b37f3d93afa5440389235e9f07b626f2 *./changelog.txt
+4d5f5962c12be95c45a02361bef9d4e5 *./changelog.txt
 d41d8cd98f00b204e9800998ecf8427e *./md5.txt
 41d4938f215232340e2a87ce0b71a290 *./makehash.py
 9209532c93c80c0ca890921fbb7045c3 *./plus/gnome-session/gnome-session-2.32.1-1vl6.src.rpm
@@ -9,7 +9,7 @@ d41d8cd98f00b204e9800998ecf8427e *./md5.txt
 784c1ea053d7e9add3d8c0b4e858426f *./plus/tzdata/tzdata-2011n-2vl6.src.rpm
 510c90a49769d9948d1302c4f01018e7 *./plus/dovecot/readme
 58e8aff3819c599a9592d23a7e58459f *./plus/dovecot/dovecot-2.1.3-1vl6.src.rpm
-157f11438582563e5a4ee845f1055867 *./security/libpng/libpng-1.2.47-1vl6.src.rpm
+b4330b1f14ef9ee8c16b351ad344afeb *./security/libpng/libpng-1.2.48-1vl6.src.rpm
 851cb3896d6a8382e5116da68f72ad26 *./security/rpm/rpm-4.8.1-4vl6.src.rpm
 894cae4697da03bad4c964bc94b835bb *./security/jasper/jasper-1.900.1-9vl6.src.rpm
 e7edbecf693b4e0ed9663abae998b444 *./security/net-tools/net-tools-1.60-15vl6.src.rpm
@@ -25,5 +25,6 @@ bc34a9148423b30583652e37b20ac619 *./security/openssl/readme
 119b452b5e80a35c85a61d951d5d3899 *./security/rsyslog/rsyslog-5.6.5-2vl6.src.rpm
 0835751be9372d02a5d3b0220bcea0aa *./security/pidgin/pidgin-2.9.0-2vl6.src.rpm
 82e46a175b04971a4c8bef6dbdeaf9e6 *./security/mysql/mysql-5.1.61-1vl6.1.src.rpm
-f41785a6e04e91ea2e12030c4e2cacb2 *./security/libpng10/libpng10-1.0.57-1vl6.src.rpm
+7b77a1fc067296f8f2af3992e37497fb *./security/libpng10/libpng10-1.0.58-1vl6.src.rpm
+6cdaebc644ea9e4442ca591902069797 *./unstable/unzip/unzip-6.0-1vl6.src.rpm
 084610163efbdf61d880d623a311c151 *./unstable/php5/php5-5.4.0-1vl6.src.rpm

@@ -1,3 +1,13 @@
+2011-03-21
+<security> libpng-1.2.48-1 (src)
+- update to 1.2.48 (CVE-2011-3045/RHSA-2012:0407-1)
+
+<security> libpng10-1.0.58-1 (src)
+- update to 1.0.58 (CVE-2011-3045/RHSA-2012:0407-1)
+
+<unstable> unzip-6.0-1 (src)
+- update to 6.0 with nls patch
+
 2011-03-18
 <security> openssl-1.0.1-1 (src)
 - update to 1.0.1
