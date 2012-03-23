@@ -1,3 +1,0 @@
-You should fix path ssl_cert and ssl_key in /etc/dovecot/conf.d/10-ssl.conf.
-ssl_cert = </etc/pki/dovecot/certs/dovecot.pem
-ssl_key = </etc/pki/dovecot/private/dovecot.pem
